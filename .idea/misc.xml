@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.147265625" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout-w936dp/activity_login.xml" value="0.15" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout/activity_login.xml" value="0.2857142857142857" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout/activity_login2.xml" value="0.2" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout/fragment_account.xml" value="0.33" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout/fragment_cart.xml" value="0.12604166666666666" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/layout/fragment_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/menu/menu_bottom.xml" value="0.19583333333333333" />
+        <entry key="..\:/BaiTap/Android/Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1925" />
       </map>
     </option>
   </component>
